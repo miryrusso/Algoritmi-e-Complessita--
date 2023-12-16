@@ -16,10 +16,10 @@ Alcuni degli argomenti che troverete sono:
   -- Heapify 
   -- Alberi rosso neri (rotazione/inserimento/cancellazione) 
   -- Grafi 
-    -Algoritmo di Bellman-Ford
-    -Grafi orientati aciclici
-    -Algoritmo di Dijkstra
-    -Algoritmo di Floyd-Warshall.
+    --Algoritmo di Bellman-Ford
+    --Grafi orientati aciclici
+    --Algoritmo di Dijkstra
+    --Algoritmo di Floyd-Warshall.
   --Programmazione Dinamica 
   --Hashing 
   --Algoritmi di ordinamento
